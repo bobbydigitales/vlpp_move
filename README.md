@@ -15,3 +15,6 @@ Instructions:
 
 
 Please report bugs / make requests via [Issues](https://github.com/bobbydigitales/vlpp_move/issues)
+
+
+TODO: Map pad colors correctly. Help is appreciated.
