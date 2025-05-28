@@ -5,7 +5,7 @@ Works with a laptop or Android phone running Chrome. Android phone needs a USB-C
 
 Instructions:
 1. Ensure M8 has Firmwre >=6.0.0
-2. Enable Launchpad mode on M8 (Project->MIDI Settings->CTRL Surface->Launchpad Pro
+2. Enable Launchpad mode on M8 (Project->MIDI Settings->CTRL Surface->Launchpad Pro)
 3. Put Move into "Control Live" mode (shift + step 2, select control live, press the wheel). You should see "Connect Live via USB-C"
 4. Connect Move USB-C port to laptop/phone hub
 5. Connect M8 to laptop / phone hub
