@@ -12,3 +12,6 @@ Instructions:
 6. M8 shoudl display "LAUNCHPAD CONNECTED"
 7. Move knob 8 LED will light red.
 8. Hit play on Move, should all be working.
+
+
+Please report bugs / make requests via [Issues](https://github.com/bobbydigitales/vlpp_move/issues)
