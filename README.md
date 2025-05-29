@@ -8,10 +8,10 @@ Instructions:
 2. Enable Launchpad mode on M8 (Project->MIDI Settings->CTRL Surface->Launchpad Pro)
 3. Put Move into "Control Live" mode (shift + step 2, select control live, press the wheel). You should see "Connect Live via USB-C"
 4. Connect Move USB-C port to laptop/phone hub
-5. Connect M8 to laptop / phone hub
+5. Connect M8 to laptop/phone hub
 6. Open https://bobbydigitales.github.io/vlpp_move/
 7. Allow MIDI permission in Chrome
-8. M8 shoudl display "LAUNCHPAD CONNECTED"
+8. M8 should display "LAUNCHPAD CONNECTED"
 9. Move knob 8 LED will light red
 10. Hit play on Move, should all be working
 
